@@ -1,0 +1,203 @@
+# English translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-11-07 13:46+0800\n"
+"PO-Revision-Date: 2014-12-10 19:24+0900\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en_US\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: templates/archives.html:2
+#, python-format
+msgid "归档 - %(SITENAME)s"
+msgstr ""
+
+#: templates/archives.html:7
+msgid "归档"
+msgstr ""
+
+#: templates/archives.html:14
+#, python-format
+msgid "归档于 %(SITENAME)s"
+msgstr ""
+
+#: templates/article.html:74 templates/article.html:107
+msgid "目录"
+msgstr ""
+
+#: templates/article.html:93
+#, python-format
+msgid "链接 %(title)s"
+msgstr ""
+
+#: templates/article.html:128
+#, python-format
+msgid "This is part %(index)s of the \"%(name)s\" series:"
+msgstr ""
+
+#: templates/author.html:3
+#, python-format
+msgid "%(author)s书 - %(SITENAME)s"
+msgstr ""
+
+#: templates/authors.html:3
+#, python-format
+msgid "作者 - %(SITENAME)s"
+msgstr ""
+
+#: templates/base.html:113
+msgid "Toggle navigation"
+msgstr ""
+
+#: templates/base.html:216
+msgid "Search"
+msgstr ""
+
+#: templates/base.html:222
+msgid "全部"
+msgstr ""
+
+#: templates/categories.html:2 templates/categories.html:15
+#, python-format
+msgid "分类 - %(SITENAME)s"
+msgstr ""
+
+#: templates/categories.html:8 templates/category.html:11
+msgid "分类"
+msgstr ""
+
+#: templates/category.html:13
+#, python-format
+msgid "Feeds for category %(tag)s"
+msgstr ""
+
+#: templates/index.html:12
+msgid "全部文章"
+msgstr ""
+
+#: templates/index.html:13
+msgid "订阅全部文章"
+msgstr ""
+
+#: templates/search.html:4
+msgid "搜索"
+msgstr ""
+
+#: templates/includes/sidebar_tags.html:3 templates/tag.html:11
+#: templates/tags.html:8
+msgid "标签"
+msgstr ""
+
+#: templates/tag.html:13
+#, python-format
+msgid "Feeds for tag %(tag)s"
+msgstr ""
+
+#: templates/tags.html:2 templates/tags.html:15
+#, python-format
+msgid "标签 - %(SITENAME)s"
+msgstr ""
+
+#: templates/includes/aboutme.html:5
+#, python-format
+msgid "关于 %(AUTHOR)s"
+msgstr ""
+
+#: templates/includes/github.html:4
+msgid "GitHub"
+msgstr ""
+
+#: templates/includes/links.html:3
+msgid "友链"
+msgstr ""
+
+#: templates/includes/twitter_timeline.html:4
+msgid "Latest Tweets"
+msgstr ""
+
+#~ msgid "Permalink to %(title)s"
+#~ msgstr ""
+
+#~ msgid "This is part %(index)s of the \"%(name)s\" series:"
+#~ msgstr ""
+
+#~ msgid "Source Code"
+#~ msgstr ""
+
+#~ msgid "Archives - %(SITENAME)s"
+#~ msgstr ""
+
+#~ msgid "Archives"
+#~ msgstr ""
+
+#~ msgid "Archives for %(SITENAME)s"
+#~ msgstr ""
+
+#~ msgid "Table of Contents"
+#~ msgstr ""
+
+#~ msgid "Articles by %(author)s - %(SITENAME)s"
+#~ msgstr ""
+
+#~ msgid "Authors - %(SITENAME)s"
+#~ msgstr ""
+
+#~ msgid "All"
+#~ msgstr "All"
+
+#~ msgid "Categories - %(SITENAME)s"
+#~ msgstr ""
+
+#~ msgid "Categories"
+#~ msgstr ""
+
+#~ msgid "All Categories for %(SITENAME)s"
+#~ msgstr ""
+
+#~ msgid "All Articles"
+#~ msgstr ""
+
+#~ msgid "Atom feeds for all articles"
+#~ msgstr "Atom feeds for all articles"
+
+#~ msgid "Show source code of this page"
+#~ msgstr ""
+
+#~ msgid "Tags"
+#~ msgstr ""
+
+#~ msgid "Tags - %(SITENAME)s"
+#~ msgstr ""
+
+#~ msgid "Tags for %(SITENAME)s"
+#~ msgstr ""
+
+#~ msgid "About %(AUTHOR)s"
+#~ msgstr "About %(AUTHOR)s"
+
+#~ msgid "Powered by"
+#~ msgstr ""
+
+#~ msgid "and"
+#~ msgstr ""
+
+#~ msgid "Top"
+#~ msgstr "Top"
+
+#~ msgid "GitHub Repos"
+#~ msgstr ""
+
+#~ msgid "Links"
+#~ msgstr ""
+
