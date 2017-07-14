@@ -136,6 +136,7 @@
             </div>
             {% endif %}
 
+            {% include 'includes/comments.html' %}
             <div class="row" id="prevnext">
                 <div class="col-xs-6">
                     {% if article.prev_article %}
@@ -159,7 +160,6 @@
             <!-- /.entry-content -->
             {% include 'includes/related-posts.html' %}
             {% include 'includes/addthis.html' %}
-            {% include 'includes/comments.html' %}
         </article>
     </section>
 
